@@ -1,3 +1,4 @@
+
 # Tail Estimation for Window Censored Processes 
 
 ## Abstract
@@ -11,3 +12,17 @@ throughout the analysis.
 
 ## Reference
 Rootzen, H. and Zholud, D. (2016). [**Tail Estimation for Window Censored Processes**](http://www.zholud.com/articles/Tail-estimation-for-window-censored-processes.pdf), *Technometrics*, Vol. 58, No. 1, pp. 95-103.
+
+## BiBTeX
+
+``` BiBTeX
+@article{RootzenZholud2016,
+  Author = {Rootz\`{e}n, H. and Zholud, D.},
+  Journal = {Technometrics},
+  Number = {1},
+  Pages = {95--103},
+  Title = {Tail Estimation for Window Censored Processes},
+  Volume = {58},
+  Year = {2016}
+}
+``` 
