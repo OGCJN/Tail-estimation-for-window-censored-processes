@@ -1,0 +1,81 @@
+>> RunSimulationSemiparametricGP
+N = 500, gamma= -0.25, sigma= 0.75, Bias(k): -0.55051
+N = 500, gamma= -0.25, sigma= 0.75, STD(k) : 2.7231
+N = 500, gamma= -0.25, sigma= 0.75, RMSE(k): 2.7781
+N = 500, gamma= -0.25, sigma= 0.75, CP(k): 0.732
+N = 500, gamma= -0.25, sigma= 0.75, Bias(sigma): 0.78089
+N = 500, gamma= -0.25, sigma= 0.75, STD(sigma) : 3.8905
+N = 500, gamma= -0.25, sigma= 0.75, RMSE(sigma): 3.9679
+N = 500, gamma= -0.25, sigma= 0.75, CP(sigma): 0.7153
+----------------------------------------
+N = 500, gamma= 0, sigma= 1, Bias(k): -0.040357
+N = 500, gamma= 0, sigma= 1, STD(k) : 0.20072
+N = 500, gamma= 0, sigma= 1, RMSE(k): 0.20472
+N = 500, gamma= 0, sigma= 1, CP(k): 0.9255
+N = 500, gamma= 0, sigma= 1, Bias(sigma): 0.086623
+N = 500, gamma= 0, sigma= 1, STD(sigma) : 0.4646
+N = 500, gamma= 0, sigma= 1, RMSE(sigma): 0.47259
+N = 500, gamma= 0, sigma= 1, CP(sigma): 0.9257
+----------------------------------------
+N = 500, gamma= 0.25, sigma= 1.25, Bias(k): -0.020889
+N = 500, gamma= 0.25, sigma= 1.25, STD(k) : 0.12708
+N = 500, gamma= 0.25, sigma= 1.25, RMSE(k): 0.12878
+N = 500, gamma= 0.25, sigma= 1.25, CP(k): 0.9478
+N = 500, gamma= 0.25, sigma= 1.25, Bias(sigma): 0.074901
+N = 500, gamma= 0.25, sigma= 1.25, STD(sigma) : 0.40827
+N = 500, gamma= 0.25, sigma= 1.25, RMSE(sigma): 0.41506
+N = 500, gamma= 0.25, sigma= 1.25, CP(sigma): 0.9388
+----------------------------------------
+N = 2500, gamma= -0.25, sigma= 0.75, Bias(k): 0.0071222
+N = 2500, gamma= -0.25, sigma= 0.75, STD(k) : 0.12782
+N = 2500, gamma= -0.25, sigma= 0.75, RMSE(k): 0.12801
+N = 2500, gamma= -0.25, sigma= 0.75, CP(k): 0.8544
+N = 2500, gamma= -0.25, sigma= 0.75, Bias(sigma): -0.0049841
+N = 2500, gamma= -0.25, sigma= 0.75, STD(sigma) : 0.15058
+N = 2500, gamma= -0.25, sigma= 0.75, RMSE(sigma): 0.15065
+N = 2500, gamma= -0.25, sigma= 0.75, CP(sigma): 0.8559
+----------------------------------------
+N = 2500, gamma= 0, sigma= 1, Bias(k): -0.004817
+N = 2500, gamma= 0, sigma= 1, STD(k) : 0.060284
+N = 2500, gamma= 0, sigma= 1, RMSE(k): 0.060473
+N = 2500, gamma= 0, sigma= 1, CP(k): 0.9432
+N = 2500, gamma= 0, sigma= 1, Bias(sigma): 0.010587
+N = 2500, gamma= 0, sigma= 1, STD(sigma) : 0.12272
+N = 2500, gamma= 0, sigma= 1, RMSE(sigma): 0.12317
+N = 2500, gamma= 0, sigma= 1, CP(sigma): 0.9457
+----------------------------------------
+N = 2500, gamma= 0.25, sigma= 1.25, Bias(k): -0.0044186
+N = 2500, gamma= 0.25, sigma= 1.25, STD(k) : 0.053579
+N = 2500, gamma= 0.25, sigma= 1.25, RMSE(k): 0.053758
+N = 2500, gamma= 0.25, sigma= 1.25, CP(k): 0.9511
+N = 2500, gamma= 0.25, sigma= 1.25, Bias(sigma): 0.015634
+N = 2500, gamma= 0.25, sigma= 1.25, STD(sigma) : 0.16707
+N = 2500, gamma= 0.25, sigma= 1.25, RMSE(sigma): 0.16779
+N = 2500, gamma= 0.25, sigma= 1.25, CP(sigma): 0.9469
+----------------------------------------
+N = 10000, gamma= -0.25, sigma= 0.75, Bias(k): 0.11459
+N = 10000, gamma= -0.25, sigma= 0.75, STD(k) : 0.13078
+N = 10000, gamma= -0.25, sigma= 0.75, RMSE(k): 0.17387
+N = 10000, gamma= -0.25, sigma= 0.75, CP(k): 0.4983
+N = 10000, gamma= -0.25, sigma= 0.75, Bias(sigma): -0.10819
+N = 10000, gamma= -0.25, sigma= 0.75, STD(sigma) : 0.12559
+N = 10000, gamma= -0.25, sigma= 0.75, RMSE(sigma): 0.16576
+N = 10000, gamma= -0.25, sigma= 0.75, CP(sigma): 0.4992
+----------------------------------------
+N = 10000, gamma= 0, sigma= 1, Bias(k): -0.0016284
+N = 10000, gamma= 0, sigma= 1, STD(k) : 0.029317
+N = 10000, gamma= 0, sigma= 1, RMSE(k): 0.029361
+N = 10000, gamma= 0, sigma= 1, CP(k): 0.95
+N = 10000, gamma= 0, sigma= 1, Bias(sigma): 0.0032609
+N = 10000, gamma= 0, sigma= 1, STD(sigma) : 0.060195
+N = 10000, gamma= 0, sigma= 1, RMSE(sigma): 0.06028
+N = 10000, gamma= 0, sigma= 1, CP(sigma): 0.9483
+----------------------------------------
+N = 10000, gamma= 0.25, sigma= 1.25, Bias(k): -0.00042309
+N = 10000, gamma= 0.25, sigma= 1.25, STD(k) : 0.026424
+N = 10000, gamma= 0.25, sigma= 1.25, RMSE(k): 0.026426
+N = 10000, gamma= 0.25, sigma= 1.25, CP(k): 0.9482
+N = 10000, gamma= 0.25, sigma= 1.25, Bias(sigma): 0.0014842
+N = 10000, gamma= 0.25, sigma= 1.25, STD(sigma) : 0.081924
+N = 10000, gamma= 0.25, sigma= 1.25, RMSE(sigma): 0.081933
+N = 10000, gamma= 0.25, sigma= 1.25, CP(sigma): 0.9487

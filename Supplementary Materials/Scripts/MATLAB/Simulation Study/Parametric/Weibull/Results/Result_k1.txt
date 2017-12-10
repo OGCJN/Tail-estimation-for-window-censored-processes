@@ -1,0 +1,82 @@
+>> RunSimulationWeibull
+N = 50, k= 1, sigma= 0.2, Bias(k): 0.027978
+N = 50, k= 1, sigma= 0.2, STD(k) : 0.11924
+N = 50, k= 1, sigma= 0.2, RMSE(k): 0.12247
+N = 50, k= 1, sigma= 0.2, CP(k): 0.95
+N = 50, k= 1, sigma= 0.2, Bias(sigma): 0.00029782
+N = 50, k= 1, sigma= 0.2, STD(sigma) : 0.030358
+N = 50, k= 1, sigma= 0.2, RMSE(sigma): 0.030358
+N = 50, k= 1, sigma= 0.2, CP(sigma): 0.9363
+----------------------------------------
+N = 50, k= 1, sigma= 1, Bias(k): 0.030605
+N = 50, k= 1, sigma= 1, STD(k) : 0.1289
+N = 50, k= 1, sigma= 1, RMSE(k): 0.13248
+N = 50, k= 1, sigma= 1, CP(k): 0.9485
+N = 50, k= 1, sigma= 1, Bias(sigma): 0.0070615
+N = 50, k= 1, sigma= 1, STD(sigma) : 0.16308
+N = 50, k= 1, sigma= 1, RMSE(sigma): 0.16322
+N = 50, k= 1, sigma= 1, CP(sigma): 0.9366
+----------------------------------------
+N = 50, k= 1, sigma= 5, Bias(k): 0.046186
+N = 50, k= 1, sigma= 5, STD(k) : 0.20226
+N = 50, k= 1, sigma= 5, RMSE(k): 0.20745
+N = 50, k= 1, sigma= 5, CP(k): 0.9558
+N = 50, k= 1, sigma= 5, Bias(sigma): 0.082819
+N = 50, k= 1, sigma= 5, STD(sigma) : 1.0794
+N = 50, k= 1, sigma= 5, RMSE(sigma): 1.0825
+N = 50, k= 1, sigma= 5, CP(sigma): 0.944
+----------------------------------------
+N = 250, k= 1, sigma= 0.2, Bias(k): 0.0054067
+N = 250, k= 1, sigma= 0.2, STD(k) : 0.051043
+N = 250, k= 1, sigma= 0.2, RMSE(k): 0.051326
+N = 250, k= 1, sigma= 0.2, CP(k): 0.9487
+N = 250, k= 1, sigma= 0.2, Bias(sigma): 0.00038143
+N = 250, k= 1, sigma= 0.2, STD(sigma) : 0.013574
+N = 250, k= 1, sigma= 0.2, RMSE(sigma): 0.013579
+N = 250, k= 1, sigma= 0.2, CP(sigma): 0.9476
+----------------------------------------
+N = 250, k= 1, sigma= 1, Bias(k): 0.0062085
+N = 250, k= 1, sigma= 1, STD(k) : 0.054873
+N = 250, k= 1, sigma= 1, RMSE(k): 0.05522
+N = 250, k= 1, sigma= 1, CP(k): 0.9459
+N = 250, k= 1, sigma= 1, Bias(sigma): 0.0018765
+N = 250, k= 1, sigma= 1, STD(sigma) : 0.072575
+N = 250, k= 1, sigma= 1, RMSE(sigma): 0.072595
+N = 250, k= 1, sigma= 1, CP(sigma): 0.9496
+----------------------------------------
+N = 250, k= 1, sigma= 5, Bias(k): 0.0074788
+N = 250, k= 1, sigma= 5, STD(k) : 0.078547
+N = 250, k= 1, sigma= 5, RMSE(k): 0.078898
+N = 250, k= 1, sigma= 5, CP(k): 0.9517
+N = 250, k= 1, sigma= 5, Bias(sigma): 0.0201
+N = 250, k= 1, sigma= 5, STD(sigma) : 0.46878
+N = 250, k= 1, sigma= 5, RMSE(sigma): 0.46919
+N = 250, k= 1, sigma= 5, CP(sigma): 0.9483
+----------------------------------------
+N = 1000, k= 1, sigma= 0.2, Bias(k): 0.0016571
+N = 1000, k= 1, sigma= 0.2, STD(k) : 0.025067
+N = 1000, k= 1, sigma= 0.2, RMSE(k): 0.02512
+N = 1000, k= 1, sigma= 0.2, CP(k): 0.9534
+N = 1000, k= 1, sigma= 0.2, Bias(sigma): 0.00010672
+N = 1000, k= 1, sigma= 0.2, STD(sigma) : 0.0067048
+N = 1000, k= 1, sigma= 0.2, RMSE(sigma): 0.0067053
+N = 1000, k= 1, sigma= 0.2, CP(sigma): 0.9513
+----------------------------------------
+N = 1000, k= 1, sigma= 1, Bias(k): 0.0010164
+N = 1000, k= 1, sigma= 1, STD(k) : 0.026873
+N = 1000, k= 1, sigma= 1, RMSE(k): 0.026891
+N = 1000, k= 1, sigma= 1, CP(k): 0.9507
+N = 1000, k= 1, sigma= 1, Bias(sigma): 0.00032607
+N = 1000, k= 1, sigma= 1, STD(sigma) : 0.03691
+N = 1000, k= 1, sigma= 1, RMSE(sigma): 0.036909
+N = 1000, k= 1, sigma= 1, CP(sigma): 0.9464
+----------------------------------------
+N = 1000, k= 1, sigma= 5, Bias(k): 0.0024442
+N = 1000, k= 1, sigma= 5, STD(k) : 0.038874
+N = 1000, k= 1, sigma= 5, RMSE(k): 0.038949
+N = 1000, k= 1, sigma= 5, CP(k): 0.949
+N = 1000, k= 1, sigma= 5, Bias(sigma): 0.0057035
+N = 1000, k= 1, sigma= 5, STD(sigma) : 0.23425
+N = 1000, k= 1, sigma= 5, RMSE(sigma): 0.23431
+N = 1000, k= 1, sigma= 5, CP(sigma): 0.9487
+----------------------------------------
