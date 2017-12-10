@@ -25,5 +25,4 @@ Rootzen, H. and Zholud, D. (2016). [**Tail Estimation for Window Censored Proces
   Volume = {58},
   Year = {2016}
 }
-```
-  
+``` 
