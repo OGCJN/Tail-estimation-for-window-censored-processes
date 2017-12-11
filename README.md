@@ -17,11 +17,11 @@ Rootzen, H. and Zholud, D. (2016). [**Tail estimation for window-censored proces
 ``` BiBTeX
 @article{RootzenZholud2016,
   Author = {Rootz\`{e}n, H. and Zholud, D.},
-  Journal = {Technometrics},
-  Number = {1},
-  Pages = {95--103},
+  Year = {2016},
   Title = {Tail Estimation for Window-Censored Processes},
+  Journal = {Technometrics},
   Volume = {58},
-  Year = {2016}
+  Number = {1},
+  Pages = {95--103}
 }
 ``` 
