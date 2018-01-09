@@ -25,3 +25,6 @@ Rootzen, H. and Zholud, D. (2016). [**Tail estimation for window-censored proces
   Pages = {95--103}
 }
 ``` 
+
+---
+Update 2018
