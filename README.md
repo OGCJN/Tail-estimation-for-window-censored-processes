@@ -10,7 +10,7 @@ throughout the analysis.
 [**MatLab and Wolfram Mathematica scripts**](https://github.com/OGCJN/Tail-estimation-for-window-censored-processes/blob/master/Supplementary%20Materials): Estimation algorithms, simulation study, analysis of 100-Car data, and numerical veriﬁcation of asymptotic normality. 
 
 ## Reference
-Rootzen, H. and Zholud, D. (2016). [**Tail estimation for window-censored processes**](http://www.zholud.com/articles/Tail-estimation-for-window-censored-processes.pdf), *Technometrics*, Vol. 58, No. 1, pp. 95-103.
+Rootzén, H. and Zholud, D. (2016). [**Tail estimation for window-censored processes**](http://www.zholud.com/articles/Tail-estimation-for-window-censored-processes.pdf), *Technometrics*, Vol. 58, No. 1, pp. 95-103.
 
 ## BiBTeX
 
